@@ -1,0 +1,14 @@
+pyautogui
+SpeechRecognition
+pyttsx3
+google-generativeai
+playsound
+gTTS
+pywin32
+requests
+pypiwin32
+edge-tts
+wmi
+simpleaudio
+pywhatkit
+huggingface_hub
